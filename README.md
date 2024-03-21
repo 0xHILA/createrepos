@@ -1,2 +1,2 @@
-# createrepos.txt
+# createrepository.txt
 whatsUp
