@@ -1,2 +1,2 @@
 # createrepos.txt
-whatUp
+whatsUp
